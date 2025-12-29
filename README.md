@@ -46,7 +46,6 @@ Key characteristics:
 - Encoder–decoder symmetry
 - Skip connections for spatial feature preservation
 
----
 
 ### 3.3 Loss Functions
 
@@ -76,7 +75,6 @@ Experiments were conducted progressively on datasets of increasing complexity:
 
 Random rectangular masks were generated dynamically during training.
 
----
 
 ### 4.2 Models Evaluated
 
@@ -87,7 +85,6 @@ Random rectangular masks were generated dynamically during training.
 | Model 3 | RGB + Mask (4-channel) | MSE |
 | Model 4 | RGB + Mask (4-channel) | Composite Loss |
 
----
 
 ## 5. Evaluation Metrics
 
@@ -128,7 +125,6 @@ The complete technical report describing the methodology, experiments, and analy
 
 📄 **[Project Report (PDF)](Image_impainting_Report.pdf)**
 
-Place the final report inside the `report/` directory.
 
 
 ## 9. Limitations and Future Work
